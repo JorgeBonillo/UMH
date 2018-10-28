@@ -1,8 +1,8 @@
 # UMH
 
-Codigo correspondiente a las practicas de Ingenieria Unformatica en Tecnologia de la Informacion de Miguel Hernandez de Elche.
+Código correspondiente a las prácticas de Ingenieria Informatica en Tecnología de la Información de Miguel Hernandez de Elche.
 
 
-Para mas informacion:
+Para mas información:
 Jorge Sánchez Bonillo
 jorgebonillo1998@hotmail.es
