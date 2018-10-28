@@ -1,6 +1,6 @@
 # UMH
 
-Codigo correspondiente a las practicas de la asginatura Metodologia de la programacion y la algoritmia en la Universidad Miguel Hernandez de Elche.
+Codigo correspondiente a las practicas de Ingenieria Unformatica en Tecnologia de la Informacion de Miguel Hernandez de Elche.
 
 
 Para mas informacion:
